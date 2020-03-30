@@ -1,6 +1,6 @@
 # DQN_Pytorch
 
-The file Qget_data.py contains the code to save the experience of the agent with the environment, which is further used to train the neural network.
+The file Qget_data.py contains the code to save the experience of the agent with the environment into a .npy file, which is further used to train the neural network.
 
 The file Qtrain_network.py contains the code to train a neural network the data for which can be loaded using a .npy file
 
