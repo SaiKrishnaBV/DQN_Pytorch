@@ -1,4 +1,4 @@
-# DQN_Pytorch
+# Value function approximation using Neural Networks
 
 The file Qget_data.py contains the code to save the experience of the agent with the environment into a .npy file, which is further used to train the neural network.
 
